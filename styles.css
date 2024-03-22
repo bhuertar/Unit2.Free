@@ -1,0 +1,23 @@
+body {
+  background-color: #DCDCDC;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#availableFl {
+  text-align: center !important;
+}
+
+ul {
+  float: left;
+  /* flex-direction: column; */
+  padding-left: 210px;
+  list-style-type: none;
+ 
+ }
